@@ -1,7 +1,7 @@
 # WEEK-15-IP
 This is a project that entails data analysis and building of models for 4 data problems.
 
-Part 1 : Dimensinality Rduction using PCA
+Part 1 : Dimensinality Reduction using PCA
 
 Part 2 : Feature Selection
 

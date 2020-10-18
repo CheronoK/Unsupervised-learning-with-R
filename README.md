@@ -1,5 +1,6 @@
-# WEEK-15-IP
-This is a project that entails data analysis and building of models for 4 data problems.
+# Unsupervised Learning with R
+
+This is a project that entails data analysis and building of models for 4 data problems to aid Carrefour Kenya's marketing department by informing them on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax).
 
 Part 1 : Dimensinality Reduction using PCA
 
@@ -8,8 +9,6 @@ Part 2 : Feature Selection
 Part 3 : Association Rules
 
 Part 4 : Anomaly Detection
-
-  
 
 ## Description
 There is 1 knitted pdf containing the analysis and workflow of the project.
